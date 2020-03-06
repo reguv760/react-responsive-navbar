@@ -10,6 +10,12 @@ This is a React conversion of [Fireship's Youtube Tutorial](https://www.youtube.
 
 `npm install node-sass`
 
+2. gh-pages
+
+- Publish files to a gh-pages branch on GitHub (or any other branch anywhere else).
+
+`npm install gh-pages --save-dev`
+
 ## Available Scripts
 
 In the project directory, you can run:
