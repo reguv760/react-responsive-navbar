@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a React conversion of [Fireship's Youtube Tutorial](https://www.youtube.com/watch?v=biOMz4puGt8).
+
+### Packages Used:
+
+1. node-sass
+
+- Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor, Sass.
+
+`npm install node-sass`
+
 ## Available Scripts
 
 In the project directory, you can run:

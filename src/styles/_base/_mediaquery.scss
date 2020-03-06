@@ -1,0 +1,45 @@
+@media only screen and (max-width: 600px) {
+  .navbar {
+    bottom: 0;
+    width: 100vw;
+    height: 5rem;
+
+    & .navbar-nav {
+      flex-direction: row;
+
+      & .nav-item .nav-link {
+        justify-content: center;
+      }
+
+      & .logo {
+        display: none;
+      }
+    }
+  }
+
+  main {
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .navbar {
+    top: 0;
+    width: 5rem;
+    height: 100vh;
+
+    &:hover {
+      width: 16rem;
+
+      & .navbar-nav .nav-item .nav-link .link-text,
+      & .navbar-nav .nav-item.logo .nav-link .link-text {
+        display: block;
+        transition: opacity var(--transition-speed);
+      }
+
+      & .navbar-nav .nav-item.logo .nav-link .link-text.logo-text {
+        left: 0px;
+      }
+    }
+  }
+}
