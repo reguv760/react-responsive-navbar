@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reguv760/react-responsive-navbar/static/css/main.aa1cc8cf.chunk.css",
+    "main.js": "/reguv760/react-responsive-navbar/static/js/main.2b8d4680.chunk.js",
+    "main.js.map": "/reguv760/react-responsive-navbar/static/js/main.2b8d4680.chunk.js.map",
+    "runtime-main.js": "/reguv760/react-responsive-navbar/static/js/runtime-main.490b73f9.js",
+    "runtime-main.js.map": "/reguv760/react-responsive-navbar/static/js/runtime-main.490b73f9.js.map",
+    "static/js/2.6b2b9c94.chunk.js": "/reguv760/react-responsive-navbar/static/js/2.6b2b9c94.chunk.js",
+    "static/js/2.6b2b9c94.chunk.js.map": "/reguv760/react-responsive-navbar/static/js/2.6b2b9c94.chunk.js.map",
+    "index.html": "/reguv760/react-responsive-navbar/index.html",
+    "precache-manifest.948ac65ee33359de51c20d656fcad1c1.js": "/reguv760/react-responsive-navbar/precache-manifest.948ac65ee33359de51c20d656fcad1c1.js",
+    "service-worker.js": "/reguv760/react-responsive-navbar/service-worker.js",
+    "static/css/main.aa1cc8cf.chunk.css.map": "/reguv760/react-responsive-navbar/static/css/main.aa1cc8cf.chunk.css.map",
+    "static/js/2.6b2b9c94.chunk.js.LICENSE.txt": "/reguv760/react-responsive-navbar/static/js/2.6b2b9c94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.490b73f9.js",
+    "static/js/2.6b2b9c94.chunk.js",
+    "static/css/main.aa1cc8cf.chunk.css",
+    "static/js/main.2b8d4680.chunk.js"
+  ]
+}
